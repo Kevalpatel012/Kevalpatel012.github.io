@@ -98,6 +98,10 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
+	.email_container{
+		text-align: left;
+	}
+
 	body {
 		background-color: #1e252d;
 	}
@@ -179,6 +183,7 @@ input, select, textarea {
 		text-align: center;
 		margin: 0 0 2rem 0;
 	}
+
 
 	h1, h2, h3, h4, h5, h6 {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
